@@ -1,0 +1,12 @@
+Program p1
+var
+    a, b : double
+    c : double
+begin
+    a = 15
+    if a > 4 then
+        out(a)
+    else
+        out(b)
+    endif
+end
