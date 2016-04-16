@@ -5,6 +5,8 @@ package lessons.java_complete_guide.part1.chapter11;
  */
 public class AACurrentThreadDemo {
 
+    public static final int abc = 15;
+
     public static void main(String[] args) {
         Thread t = Thread.currentThread();
 
